@@ -34,6 +34,28 @@ age_customer: Number of days since first transaction
 ag_cust: Quartile of age_customer
 years_experience: Years of experience of BCs
 yrs_exp1: Quartile of years_experience
+
+
+Requirements
+
+certifi==2019.3.9
+cycler==0.10.0
+joblib==0.13.2
+kiwisolver==1.1.0
+llvmlite==0.29.0
+matplotlib==3.1.0
+numba==0.44.0
+numpy==1.16.4
+pandas==0.24.2
+pyod==0.7.2
+pyparsing==2.4.0
+python-dateutil==2.8.0
+pytz==2019.1
+scikit-learn==0.21.2
+scipy==1.3.0
+six==1.12.0
+sklearn==0.0
+
 month: months of Transactions
 dow: Day of the week of transactions
 dummy_failure: Binary variable with 1 denoting transaction failure
