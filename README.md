@@ -1,6 +1,6 @@
 
 # # Fraud Detection Model
-* In order to identify fraud Banking correspondets dealing with customers
+* In order to identify fraud Banking correspondets dealing with customers.
 
 # # ISB-Project-Machine-Learning
 
