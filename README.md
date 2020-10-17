@@ -2,7 +2,13 @@
 # ISB-Project-Machine-Learning
 
 * ML tool for "Financial Inclusion for The Poor: Do Technological Failures Deter Financial Inclusion"
-*Binary classification task with the goal of predicting whether customer will remain in the system(denoted by 1) or drop out of the system(denoted by 0).
+* Binary classification task with the goal of predicting whether customer will remain in the system(denoted by 1) or drop out of the system(denoted by 0).
+
+* Xgboost_Hyperparameter_Tuning_ISB - Code for tuning the parameters for Xgboost to be used in Ensembling model.
+* Catboost_Hyperparameter_Tuning_ISB - Code for tuning the parameters for Catboost to be used in Ensembling model.
+* Final_Ensembling_model_ISB - Run the code with the tuned Xgboost and catboose parameters.
+* RandomForrest- gives decent results in this case and takes less time as compared to Ensembling model.
+
 
 ## Getting Started
 This project requires Python and the following Python libraries installed:
